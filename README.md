@@ -2,6 +2,8 @@
 
 ## Introduction
 
+
+
 Welcome to the Renovate hands-on tutorial.
 
 This tutorial is based on the Mend Renovate App.
